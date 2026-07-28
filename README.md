@@ -1,42 +1,309 @@
-# 💫 Hi 👋, I'm Karan Joshi
+<!-- ==================== HEADER ==================== -->
 
+<h1 align="center">Hi 👋, I'm Karan Joshi</h1>
 
-Email Me 👉 ✉️ **karanjoshi6397@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<h3 align="center">
+A Passionate Computer Science Student from India 🇮🇳
+</h3>
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** basics of programming and side by side web development
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** karanjoshi6397@gmail.con
-- 😄 **Pronouns:** karan
-- ⚡ **Fun fact:** I creates creativity
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karanjoshi_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanjoshi6397@gmail.com) 
-
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karanjoshi6397-lgtm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karanjoshi6397-lgtm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjoshi6397-lgtm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karanjoshi6397-lgtm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karanjoshi6397-lgtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+Student;Learning+Data+Structures+%26+Algorithms;Exploring+Machine+Learning;Building+Web+Development+Projects;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karanjoshi6397-lgtm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE (AI & Machine Learning)
+- 📚 Currently learning **Data Structures & Algorithms in C++**
+- 🤖 Exploring **Machine Learning**
+- 🌐 Improving my **Web Development** skills
+- 💡 I enjoy solving problems and building useful projects.
+- 🎯 Goal: Become a skilled Software Engineer.
+
+---
+
+## 🚀 Current Focus
+
+```text
+📌 Solving DSA Problems
+
+
+📌 Learning Machine Learning
+
+
+📌 Web Development
+
+```
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Object Oriented Programming
+- Machine Learning
+- Web Development
+- Git & GitHub
+
+---
+
+## 💭 Developer Mindset
+
+> **"Consistency beats intensity. One commit every day is better than giving up after one week."**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+<!-- ==================== TECH STACK ==================== -->
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vscode" />
+
+</p>
+
+---
+
+# 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karanjoshi6397-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjoshi6397-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=karanjoshi6397-lgtm&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karanjoshi6397-lgtm&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# ⚡ Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://takeuforward.org/">
+<img src="https://img.shields.io/badge/Striver_A2Z_Sheet-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
+
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏔️ Devbhoomi Darshan
+
+A tourism website showcasing the beauty of Uttarakhand.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Tailwind CSS
+
+</td>
+
+<td width="50%">
+
+### 💻 DSA in C++
+
+My complete Data Structures & Algorithms journey in C++.
+
+Topics include:
+
+- Arrays
+- Binary Search
+- Strings
+- Linked Lists
+- Stack & Queue
+- Trees
+- Graphs
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
+
+---
+
+
+
+
+---
+
+# 💬 Quote I Follow
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
+
+---
+
+
+
+---
+
+
+
+---
+
+# 💙 Thanks for Visiting My Profile
+
+<p align="center">
+
+⭐ If you like my work, don't forget to star my repositories.
+
+</p>
+
+<!-- ====================== EXTRA ====================== -->
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanjoshi6397-lgtm&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanjoshi6397-lgtm&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanjoshi6397-lgtm&theme=tokyonight" width="48%"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanjoshi6397-lgtm&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/karanjoshi6397-lgtm/karanjoshi6397-lgtm/output/github-contribution-grid-snake-dark.svg"/>
+
+
+
+
+---
+
+# 📌 Favorite Quote
+
+<p align="center">
+
+<i>
+"Every expert was once a beginner who refused to quit."
+</i>
+
+</p>
+
+---
+
+# 🌟 Fun Stats
+
+```text
+💻 Favorite Language  : C++
+📚 Currently Learning : DSA • Machine Learning • Web Development
+🔥 Daily Goal         : Learn • Code • Improve
+🎯 Dream              : Software Engineer
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:karanjoshi6397@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/karanjoshi6397-lgtm">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for Visiting ⭐
+
+If you like my repositories, consider giving them a ⭐
+
+Happy Coding 🚀
+
+</p>
+
+---
+---
