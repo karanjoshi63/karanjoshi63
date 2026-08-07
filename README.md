@@ -279,8 +279,8 @@ Topics include:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://www.linkedin.com/in/karan-joshi-67a050382/"/>
+<a href="https://www.linkedin.com/in/karan-joshi-67a050382/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Karan%20Joshi-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:karanjoshi6397@gmail.com">
