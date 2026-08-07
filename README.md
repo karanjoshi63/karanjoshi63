@@ -280,7 +280,7 @@ Topics include:
 <p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://www.linkedin.com/in/karan-joshi-67a050382/"/>
 </a>
 
 <a href="mailto:karanjoshi6397@gmail.com">
