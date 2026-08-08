@@ -267,7 +267,6 @@ Topics include:
 # 🌟 Fun Stats
 
 ```text
-💻 Favorite Language  : C++
 📚 Currently Learning : DSA • Machine Learning • Web Development
 🔥 Daily Goal         : Learn • Code • Improve
 🎯 Dream              : Software Engineer
