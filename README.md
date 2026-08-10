@@ -55,7 +55,7 @@ A Passionate Computer Science Student from India 🇮🇳
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=karanjoshi63&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 <!-- ==================== TECH STACK ==================== -->
 
@@ -88,9 +88,9 @@ A Passionate Computer Science Student from India 🇮🇳
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karanjoshi6397-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karanjoshi63&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjoshi6397-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjoshi63&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -100,7 +100,7 @@ A Passionate Computer Science Student from India 🇮🇳
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=karanjoshi6397-lgtm&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=karanjoshi63&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,7 +113,7 @@ A Passionate Computer Science Student from India 🇮🇳
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karanjoshi6397-lgtm&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karanjoshi63&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -217,15 +217,15 @@ Topics include:
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanjoshi6397-lgtm&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanjoshi63&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanjoshi6397-lgtm&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanjoshi63&theme=tokyonight" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanjoshi6397-lgtm&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanjoshi63&theme=tokyonight" width="48%"/>
 
 </p>
 
@@ -235,7 +235,7 @@ Topics include:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanjoshi6397-lgtm&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanjoshi63&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -245,7 +245,7 @@ Topics include:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/karanjoshi6397-lgtm/karanjoshi6397-lgtm/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/karanjoshi63/karanjoshi63/output/github-contribution-grid-snake-dark.svg"/>
 
 
 
@@ -286,7 +286,7 @@ Topics include:
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/karanjoshi6397-lgtm">
+<a href="https://github.com/karanjoshi63">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
