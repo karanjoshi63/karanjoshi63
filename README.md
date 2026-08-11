@@ -131,9 +131,7 @@ A Passionate Computer Science Student from India 🇮🇳
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://takeuforward.org/">
-<img src="https://img.shields.io/badge/Striver_A2Z_Sheet-0A66C2?style=for-the-badge"/>
-</a>
+
 
 </p>
 
@@ -161,7 +159,7 @@ HTML • CSS • JavaScript • Tailwind CSS
 
 ### 💻 DSA in C++
 
-My complete Data Structures & Algorithms journey in C++.
+Completing Data Structures & Algorithms journey in C++.
 
 Topics include:
 
