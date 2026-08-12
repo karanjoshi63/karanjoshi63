@@ -3,7 +3,7 @@
 <h1 align="center">Hi!! , I'm Karan Joshi</h1>
 
 <h3 align="center">
-A Passionate Computer Science Student from India 🇮🇳
+A Passionate Computer Science Student from India
 </h3>
 
 <p align="center">
